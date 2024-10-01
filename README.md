@@ -1,4 +1,13 @@
+[LinkedIn](https://www.linkedin.com/in/christopher-j-abel/)
+
+[ORCiD](https://orcid.org/0000-0002-6707-0586)
+
 ## Hi there 👋
+Welcome to my GitHub profile! I am a Data Scientist with a strong background in Particle Physics, bringing a research-driven approach to solving complex data challenges. Whether it involves harnessing massive datasets, building predictive models, or developing innovative algorithms, I am passionate about leveraging data to uncover actionable insights.
+
+Feel free to explore my repositories, which include a collection of personal projects at various stages of completion! You can also find my published journal articles via the ORCiD link.
+
+My broader interests include Physics, Machine Learning, Data Science, and Software Engineering. Away from the screen, I spend my spare time repairing and restoring classic motorcycles. If you need anything from a quick service to a full engine rebuild, all you have to do is ask!
 
 <!--
 **ChrisAbel540/ChrisAbel540** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
