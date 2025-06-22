@@ -1,25 +1,40 @@
-[LinkedIn](https://www.linkedin.com/in/christopher-j-abel/)
+# 👋 Hi there, I'm Chris Abel
+Welcome to my GitHub profile! I'm a **Data Scientist** with a background in **Particle Physics**, bringing a research-driven and analytical mindset to data challenges. I specialise in turning complex datasets into meaningful, actionable insights—whether through machine learning models, algorithm development, or exploratory analysis.
 
-[ORCiD](https://orcid.org/0000-0002-6707-0586)
+🔗 [LinkedIn](https://www.linkedin.com/in/christopher-j-abel/) | [ORCiD](https://orcid.org/0000-0002-6707-0586)
 
-## Hi there 👋
-Welcome to my GitHub profile! I am a Data Scientist with a strong background in Particle Physics, bringing a research-driven approach to solving complex data challenges. Whether it involves harnessing massive datasets, building predictive models, or developing innovative algorithms, I am passionate about leveraging data to uncover actionable insights.
+---
 
-Feel free to explore my repositories, which include a collection of personal projects at various stages of completion! You can also find my published journal articles via the ORCiD link.
+## 🧠 Background
+My journey into data science is grounded in rigorous academic research. With experience in handling large-scale scientific data and developing statistical models in high-energy physics, I now apply those skills to real-world problems in data science and machine learning.
 
-My broader interests include Physics, Machine Learning, Data Science, and Software Engineering. Away from the screen, I spend my spare time repairing and restoring classic motorcycles. If you need anything from a quick service to a full engine rebuild, all you have to do is ask!
+---
 
-<!--
-**ChrisAbel540/ChrisAbel540** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills & Interests
+- **Core Skills**: Python, SQL, pandas, scikit-learn, Git, Linux
+- **Focus Areas**: Machine Learning, Data Analysis, Statistical Modeling, Time Series
+- **Other Interests**: Physics, Software Engineering, Classic Motorcycle Restoration 🏍️
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Explore My Data Science Portfolio
+Browse my repositories to see:
+- **End-to-end machine learning workflows**
+- **Data analysis notebooks**
+
+Many of these projects are in active development—feel free to follow along or get in touch!
+
+---
+
+## 📝 Publications
+Check out my [ORCiD](https://orcid.org/0000-0002-6707-0586) page for published journal articles in physics and related disciplines.
+
+---
+
+## 🤝 Let's Connect
+If you're interested in collaborating, hiring, or just chatting about data science, research, or motorcycles, don’t hesitate to reach out:
+
+- 📧 [Email](mailto:cja540@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/christopher-j-abel)
+
+Thanks for visiting!
